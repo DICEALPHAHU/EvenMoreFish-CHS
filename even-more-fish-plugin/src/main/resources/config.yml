@@ -4,7 +4,7 @@ enabled: true
 # The locale of the message file
 # Currently: en, cs, de, es, fr, ja, ko, nl, pl, pt-br, ru, tr, vn, zh_cn
 # Delete messages.yml before changing this
-locale: en
+locale: zh_cn
 
 # The decimal format of the plugin
 # Used to change default formatting for numbers, for example: en_US for 1,000.99 or de_DE for 1.000,99
