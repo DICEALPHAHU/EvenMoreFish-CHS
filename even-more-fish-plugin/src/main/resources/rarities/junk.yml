@@ -16,7 +16,7 @@ fish:
       raw-material: BUCKET
   Rusty Spoon:
     item:
-      displayname: 生锈的铲子
+      displayname: 生锈的勺子
       material: IRON_SHOVEL
   Fishing Rod:
     item:
