@@ -10,3 +10,5 @@ This plugin focuses on refactoring Chinese translations other than messages.yml 
 
 Cheers, Oheers 
 
+### 本插件使用了MIT协议，按照协议说明以及规范，本项目可以构建Release。
+This plugin uses the MIT license. According to the license description and specifications, this project can build a Release.
